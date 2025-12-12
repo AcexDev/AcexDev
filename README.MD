@@ -3,7 +3,6 @@
 
 <p align="center">
   💻 Passionate about bridging <b>hardware and software</b> through embedded systems and backend development.<br>
-  🔐 Interested in <b>data science</b> and <b>ethical cybersecurity</b>.<br>
   🌍 Based in <b>Nigeria (WAT)</b>.
 </p>
 
