@@ -41,9 +41,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AcexDev&show_icons=true&theme=github_dark" alt="AcexDev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AcexDev&show_icons=true&theme=radical" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AcexDev&theme=github-dark-blue" alt="AcexDev's streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=AcexDev&theme=radical" alt="GitHub streak stats" />
 </p>
 
 ---
