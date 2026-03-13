@@ -72,10 +72,8 @@
 ---
 
 ### ⚡ Fun Fact
-> I believe in learning at my own pace, blending code with curiosity 😎
+> I believe in learning at my own pace, blending code with curiosity
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AcexDev/AcexDev/output/snake.svg" alt="Snake animation" />
-</div>
+
