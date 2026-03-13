@@ -2,8 +2,7 @@
 <h3 align="center">Backend Developer Learner | UI Student | IoT & Embedded Systems Enthusiast 🛠</h3>
 
 <p align="center">
-  💻 Passionate about bridging <b>hardware and software</b> through embedded systems and backend development.<br>
-  🌍 Based in <b>Nigeria (WAT)</b>.
+  💻 Passionate about bridging <b>hardware and software</b> through embedded systems and backend development.<br></b>.
 </p>
 
 ---
